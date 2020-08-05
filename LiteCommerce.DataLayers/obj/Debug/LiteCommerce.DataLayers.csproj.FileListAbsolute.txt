@@ -1,0 +1,14 @@
+D:\webASP\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.dll
+D:\webASP\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+D:\webASP\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csprojResolveAssemblyReference.cache
+D:\webASP\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.dll
+D:\webASP\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.pdb
+D:\webASP\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\Litecommerce.DomainModels.dll
+D:\webASP\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\Litecommerce.DomainModels.pdb
+C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.dll
+C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\Litecommerce.DomainModels.dll
+C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\Litecommerce.DomainModels.pdb
+C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.dll
+C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.pdb
