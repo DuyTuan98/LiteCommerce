@@ -16,3 +16,14 @@ C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.BusinessLayers\bin
 C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.csprojResolveAssemblyReference.cache
 C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.dll
 C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.pdb
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.dll
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.pdb
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.dll
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\Litecommerce.DomainModels.dll
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\Litecommerce.DomainModels.pdb
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.csprojAssemblyReference.cache
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.csproj.CoreCompileInputs.cache
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.csproj.CopyComplete
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.dll
+D:\LiteCommerce\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.pdb

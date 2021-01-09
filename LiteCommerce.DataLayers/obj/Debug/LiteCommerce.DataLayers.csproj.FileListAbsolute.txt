@@ -12,3 +12,12 @@ C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\bin\Deb
 C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csprojResolveAssemblyReference.cache
 C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.dll
 C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.pdb
+D:\LiteCommerce\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.dll
+D:\LiteCommerce\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+D:\LiteCommerce\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\Litecommerce.DomainModels.dll
+D:\LiteCommerce\LiteCommerce\LiteCommerce.DataLayers\bin\Debug\Litecommerce.DomainModels.pdb
+D:\LiteCommerce\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csprojAssemblyReference.cache
+D:\LiteCommerce\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csproj.CoreCompileInputs.cache
+D:\LiteCommerce\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csproj.CopyComplete
+D:\LiteCommerce\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.dll
+D:\LiteCommerce\LiteCommerce\LiteCommerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.pdb

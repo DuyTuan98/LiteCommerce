@@ -8,3 +8,9 @@ C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\Litecommerce.DomainModels\bin\D
 C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\Litecommerce.DomainModels\obj\Debug\Litecommerce.DomainModels.dll
 C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\Litecommerce.DomainModels\obj\Debug\Litecommerce.DomainModels.pdb
 C:\Users\USER\Desktop\LiteCommerceg\LiteCommerce\Litecommerce.DomainModels\obj\Debug\Litecommerce.DomainModels.csprojResolveAssemblyReference.cache
+D:\LiteCommerce\LiteCommerce\Litecommerce.DomainModels\bin\Debug\Litecommerce.DomainModels.dll
+D:\LiteCommerce\LiteCommerce\Litecommerce.DomainModels\bin\Debug\Litecommerce.DomainModels.pdb
+D:\LiteCommerce\LiteCommerce\Litecommerce.DomainModels\obj\Debug\Litecommerce.DomainModels.csprojAssemblyReference.cache
+D:\LiteCommerce\LiteCommerce\Litecommerce.DomainModels\obj\Debug\Litecommerce.DomainModels.csproj.CoreCompileInputs.cache
+D:\LiteCommerce\LiteCommerce\Litecommerce.DomainModels\obj\Debug\Litecommerce.DomainModels.dll
+D:\LiteCommerce\LiteCommerce\Litecommerce.DomainModels\obj\Debug\Litecommerce.DomainModels.pdb
