@@ -1,0 +1,34 @@
+﻿@model Litecommerce.DomainModels.Category
+@{
+    ViewBag.SmallTitle = "Input";
+}
+<div class="box box-primary">
+        <form role="form" action="~/Category/Input" method="post">
+            <div class="box-header text-right">
+                <a href="~/Category">Back to List</a>
+            </div>
+            <div class="box-body">
+                <input type="hidden" name="CategoryID" value="@Model.CategoryID" />
+                <div class="form-group">
+                    <label>Category Name:</label>@Html.ValidationMessage("CategoryName", new { @style = "color:red; font - weight:500 "})
+                    <input type="text" class="form-control" placeholder="Enter Category Name" name="CategoryName" value="@Model.CategoryName">
+                </div>
+                <div class="form-group">
+                    <label>Description:</label>@Html.ValidationMessage("Description", new { @style = "color:red; font - weight:500 "})
+                    <input class="form-control" type="text" placeholder="Enter Description" name="Description" value="@Model.Description">
+                </div>
+            </div>
+            <div>
+                @Html.ValidationMessage("")
+            </div>
+            <!-- /.box-body -->
+            <div class="box-footer">
+                <button type="submit" class="btn btn-sm btn-primary">
+                    <i class="fa fa-save"></i> Save
+                </button>
+                <a class="btn btn-sm btn-default" href="~/Category">
+                    Cancel
+                </a>
+            </div>
+        </form>
+</div>
